@@ -1,24 +1,41 @@
-# README
+# Micro Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, we create a basic form where we could test how to submit and the data in form and storing them into our data,showing the error to the user if the validation is missing
+This project is built using the Ruby on rails framework
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails,
+- Ruby,
+- Rubocop,
+- Stickler
+- VS Code
 
-* System dependencies
+# Features
 
-* Configuration
+- User 
+- Validations for user.
+- Creating and editing the users
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Rossiel Carranza**
 
-* How to run the test suite
+- Github: [@RossielCS](https://github.com/RossielCS)
+- Linkedin: [Rossiel Carranza](https://www.linkedin.com/in/rossiel-carranza/)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Shubham Singh**
 
-* Deployment instructions
+- Github: [@shubhsk88](https://github.com/shubhsk88)
+- Twitter: [@shubhski](twitter.com/shubski)
+- Linkedin: [linkedin](https://www.linkedin.com/in/shubham-singh-130349140/)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
